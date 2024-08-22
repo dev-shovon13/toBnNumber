@@ -19,4 +19,4 @@ const toBnNumber = (englishNumber) => {
     .join("");
 };
 
-module.exports = { toBnNumber };
+module.exports = toBnNumber;
