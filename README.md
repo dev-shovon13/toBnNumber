@@ -25,5 +25,3 @@ const bengaliNumber = toBnNumber('1234567890');
 
 console.log(bengaliNumber); // Output: ১২৩৪৫৬৭৮৯০
 ```
-# toBnNumber
-# toBnNumber
